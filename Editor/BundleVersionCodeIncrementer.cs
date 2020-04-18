@@ -2,7 +2,7 @@
 using UnityEditor.Build;
 using UnityEditor.Build.Reporting;
 
-namespace KoganeUnityLib
+namespace UniBundleVersionCodeIncrementer
 {
 	internal sealed class BundleVersionCodeIncrementer : IPostprocessBuildWithReport
 	{
